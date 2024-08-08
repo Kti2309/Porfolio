@@ -1,0 +1,44 @@
+body{
+    background-color: lightslategray;
+    font-family:Arial, Helvetica, sans-serif;
+    margin: 40px   80px   40px;
+}
+
+h1{
+    color: lightsteelblue;
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    text-align:justify;
+}
+img{
+    float:inline-start;
+}
+
+.introductory {
+    text-align:center;
+    color: darkred;
+}
+
+.habilities {
+color: black;
+font:bold;
+}
+
+#title {
+    color:black;
+    font:bolder;
+
+}
+
+#galery {
+   margin-top: 2cm;
+   margin-right: 10cm;
+
+}
+
+.second {
+    margin-left: 5cm;
+}
